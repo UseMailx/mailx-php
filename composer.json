@@ -3,6 +3,11 @@
     "description": "Official PHP SDK for MailX",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/UseMailx/mailx-php",
+    "support": {
+        "issues": "https://github.com/UseMailx/mailx-php/issues",
+        "source": "https://github.com/UseMailx/mailx-php"
+    },
     "require": {
         "php": ">=8.1",
         "ext-curl": "*",
